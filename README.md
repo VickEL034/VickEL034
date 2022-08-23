@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Victor Odekunle
 
 - 🔭 I’m currently working on building my technical skills in data analysis
 - 🌱 I’m currently learning data analysis in the NG 30days of learning 
