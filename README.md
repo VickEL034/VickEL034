@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**VickEL034/VickEL034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on building my technical skills in data analysis
 - 🌱 I’m currently learning data analysis in the NG 30days of learning 
 - 👯 I’m looking to collaborate on everything data analysis and project
