@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on building my technical skills in data analysis
-- 🌱 I’m currently learning data analysis in the NG 3days of learning 
+- 🌱 I’m currently learning data analysis in the NG 30days of learning 
 - 👯 I’m looking to collaborate on everything data analysis and project
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
